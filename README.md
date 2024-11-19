@@ -1,13 +1,13 @@
-# Blogify: A Full-Stack MERN Blog Application
+# VibePost: A Full-Stack MERN Blog Application
 
-**Welcome to Blogify!**
+**Welcome to VibePost!**
 
 
 
 This project demonstrates a full-stack blog application built with the MERN stack (MongoDB, Express, React, Node.js). It boasts a user-friendly interface, robust functionalities, and secure user management. 
 
 
-This README will guide you through the key features and functionalities of Blogify:
+This README will guide you through the key features and functionalities of VibePost:
 
 ## Project Structure
 
@@ -15,11 +15,10 @@ This README will guide you through the key features and functionalities of Blogi
 * `server`: Houses the Node.js backend code responsible for server-side logic and API endpoints.
 
 
-## Navigating Blogify
+## Navigating VibePost
 
 ### 1. **Home Page:**
 
-![home](https://github.com/RishabhJain2404/blogify-mern-app/assets/127675963/6b489d07-e437-46fd-b8e0-e1a3b4b12340)
 
 The home page serves as the main entry point for users. It typically displays a list of recent blog posts, along with navigation options to access other sections of the application.
 
@@ -70,13 +69,13 @@ This page displays the details of an individual blog post, including the title, 
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/blogify.git
+   git clone [https://github.com/](https://github.com/)<your-username>/VibePost.git
 
 
 2. **Install dependencies:**
 
    ```bash
-   cd blogify
+   cd VibePost
    npm install
 
 3. **Configure environment variables:**
